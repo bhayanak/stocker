@@ -1,0 +1,72 @@
+{
+  "funds": {
+    "mid": [
+      {
+        "key": "F00000WAI2",
+        "name": "Indiabulls Value Discovery Dir Gr"
+      },
+      {
+        "key": "F00000TGKU",
+        "name": "L&T Emerging Business Dir Gr"
+      },
+      {
+        "key": "F00000PD8F",
+        "name": "Indiabulls Value Discovery Dir Gr"
+      },
+      {
+        "key": "F00000PDGD",
+        "name": "Sundaram SMILE Dir Gr"
+      },
+      {
+        "key": "F00000PDY6",
+        "name": "Franklin India Smaller Companies Dir Gr"
+      },
+      {
+        "key": "f00000pcu9",
+        "name": "IDFC Sterling Equity Dir Gr"
+      },
+      {
+        "key": "f00000pdqo",
+        "name": "Aditya BSL Small & Midcap Dir Gr"
+      },
+      {
+        "key": "f00000pd2b",
+        "name": "Mirae Asset Emerging Bluechip Dir Gr"
+      },
+      {
+        "key": "f00000pdsi",
+        "name": "Canara Robeco Emerging Equities Dir Gr"
+      },
+      {
+        "key": "f00000pdum",
+        "name": "DSP BlackRock Micro Cap Dir Gr"
+      },
+      {
+        "key": "f00000pd8f",
+        "name": "Reliance Small Cap Dir Gr"
+      },
+      {
+        "key": "f00000pdtt",
+        "name": "SBI Small & Midcap Dir Gr"
+      },
+      {
+        "key": "f00000pd2r",
+        "name": "HDFC Small Cap Dir Gr"
+      },
+      {
+        "key": "f00000pe2j",
+        "name": "HSBC Midcap Equity Dir Gr"
+      },
+      {
+        "key": "f00000totu",
+        "name": "Union Small and Midcap Dir Gr"
+      }
+    ],
+    "large": [
+      {
+        "key": "f00000pdmp",
+        "name": "Axis Long Term Equity Dir Gr"
+      }
+    ]
+  }
+}
