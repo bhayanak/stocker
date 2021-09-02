@@ -15,9 +15,6 @@ ids = ["f00000sc5y",    # DSP BlackRock Micro Cap Dir Gr
        "f00000pdsi",    # Canara Robeco Emerging Equities Dir Gr
        ]
 
-#http_proxy = "http://web-proxy.ftc.hpecorp.net:8080"
-http_proxy = "http://web-proxy.usa.hp.com:8080"
-
 proxyDict = {
     "http": http_proxy,
     "https": http_proxy,
