@@ -10,15 +10,7 @@ import datetime
 # Get utual fund value from google:
 # https://www.google.com/finance?q=MUTF_IN%3AAXIS_LT_EQUI_1RWJOWW&ei=mvjqWLDVCJOHuQSrmb2ABw
 
-ids = ["F00000PDUM",    # DSP BlackRock Micro Cap Dir Gr
-       "F00000PE2J",    # HSBC Midcap Equity Dir Gr
-       "F00000WAI2",    # Indiabulls Value Discovery Dir Gr
-       "F00000TGKU",    # L&T Emerging Business Dir Gr
-       "F00000PD8F",    # Indiabulls Value Discovery Dir Gr
-       "F00000PDGD",    # Sundaram SMILE Dir Gr
-       "F00000PDY6",    # Franklin India Smaller Companies Dir Gr
-       "f00000pcu9",    # IDFC Sterling Equity Dir Gr
-       "f00000pdqo",    # Aditya BSL Small & Midcap Dir Gr
+ids = ["f00000sc5y",    # DSP BlackRock Micro Cap Dir Gr
        "f00000pd2b",    # Mirae Asset Emerging Bluechip Dir Gr
        "f00000pdsi",    # Canara Robeco Emerging Equities Dir Gr
        ]
