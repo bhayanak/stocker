@@ -12,4 +12,9 @@ This value is not very accurate as mutual fund house do not publish current prot
 This is helpfull when market is little down but you are not sure if you should invest.
 
 
+Funds.py:
+Older way to calculate.
 
+mftracker_async_thread.py: 
+New faster way to get current mutual fund price.
+ 
